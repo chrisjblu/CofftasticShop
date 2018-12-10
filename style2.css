@@ -1,0 +1,129 @@
+#main-wrapper{
+	width:500px;
+	margin:0 auto;
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	border:2px solid #bdc3c7;
+
+}
+#img{
+	width:300px;
+	margin:0 auto;
+	padding:5px;
+	border-radius:10px;
+
+}
+.logo{
+	width:150px;
+	text-align:center;
+
+
+}
+.myform{
+	width:450px;
+	margin:0 auto;
+}
+
+.inputvalues{
+
+	width:430px;
+	margin:0 auto;
+	padding:5px;
+}
+
+#login_btn{
+	margin-top:10px;
+	width:100%;
+	background-color:#e1b12c;
+	padding:5px;
+	color:white;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
+#register_btn{
+	margin-top:10px;
+	width:100%;
+	background-color:#7f8fa6;
+	padding:5px;
+	color:white;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-bottom:10px;
+}
+#signup_btn{
+	margin-top:10px;
+	width:100%;
+	background-color:#e1b12c;
+	padding:5px;
+	color:white;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
+#back_btn{
+	margin-top:10px;
+	width:30%;
+	background-color:#7f8fa6;
+	padding:5px;
+	color:white;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+#back_btn2{
+	margin-top:10px;
+	width:40%;
+	background-color:#7f8fa6;
+	padding:5px;
+	color:white;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+#logout_btn{
+	margin-top:10px;
+	width:100%;
+	background-color:#c0392b;
+	padding:5px;
+	color:white;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+
+}
+#changepassword_btn{
+	margin-top:10px;
+	width:100%;
+	background-color:#27ae60;
+	padding:5px;
+	color:white;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+
+}
+#delete_btn{
+	margin-top:10px;
+	width:100%;
+	background-color:#eb2f06;
+	padding:5px;
+	color:white;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+#submitpass_btn{
+	margin-top:10px;
+	width:100%;
+	background-color:#27ae60;
+	padding:5px;
+	color:white;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
